@@ -1,0 +1,14 @@
+D:\Windows Apps\Shredder - GIT\Shredder\obj\Debug\Shredder.csprojAssemblyReference.cache
+D:\Windows Apps\Shredder - GIT\Shredder\obj\Debug\Shredder.csproj.CoreCompileInputs.cache
+D:\Windows Apps\Shredder - GIT\Shredder\bin\Debug\Shredder.exe.config
+D:\Windows Apps\Shredder - GIT\Shredder\bin\Debug\Shredder.exe
+D:\Windows Apps\Shredder - GIT\Shredder\bin\Debug\Shredder.pdb
+D:\Windows Apps\Shredder - GIT\Shredder\obj\Debug\Shredder.exe
+D:\Windows Apps\Shredder - GIT\Shredder\obj\Debug\Shredder.pdb
+D:\C# Windows Apps\Shredder - GIT\Shredder\bin\Debug\Shredder.exe.config
+D:\C# Windows Apps\Shredder - GIT\Shredder\bin\Debug\Shredder.exe
+D:\C# Windows Apps\Shredder - GIT\Shredder\bin\Debug\Shredder.pdb
+D:\C# Windows Apps\Shredder - GIT\Shredder\obj\Debug\Shredder.csproj.AssemblyReference.cache
+D:\C# Windows Apps\Shredder - GIT\Shredder\obj\Debug\Shredder.csproj.CoreCompileInputs.cache
+D:\C# Windows Apps\Shredder - GIT\Shredder\obj\Debug\Shredder.exe
+D:\C# Windows Apps\Shredder - GIT\Shredder\obj\Debug\Shredder.pdb

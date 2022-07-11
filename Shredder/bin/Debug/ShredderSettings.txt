@@ -1,0 +1,2 @@
+shreddingMethod = ShreddingMethod.Zeros;
+shreddingPasses = 3;

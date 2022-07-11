@@ -1,0 +1,2 @@
+shreddingMethod = ShreddingMethod.Random;
+shreddingPasses = 3;
