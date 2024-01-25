@@ -1,6 +1,0 @@
-D:\C# Windows Apps\Shredder - GIT\Shredder\bin\Release\Shredder.exe.config
-D:\C# Windows Apps\Shredder - GIT\Shredder\bin\Release\Shredder.exe
-D:\C# Windows Apps\Shredder - GIT\Shredder\bin\Release\Shredder.pdb
-D:\C# Windows Apps\Shredder - GIT\Shredder\obj\Release\Shredder.csproj.CoreCompileInputs.cache
-D:\C# Windows Apps\Shredder - GIT\Shredder\obj\Release\Shredder.exe
-D:\C# Windows Apps\Shredder - GIT\Shredder\obj\Release\Shredder.pdb
